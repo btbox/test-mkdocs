@@ -1,0 +1,10 @@
+site_name: My Docs
+# 主题
+theme:
+  name: material
+  language: zh
+
+extra:
+  version:
+    provider: mike
+    default: stable
